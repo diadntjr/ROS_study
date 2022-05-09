@@ -1,3 +1,6 @@
+그냥 여기 참조하는게 더 좋음
+https://puzzling-cashew-c4c.notion.site/ROS-2-Foxy-Linux20-04-58f0c6f2537e498eb8fe163ad1f13ce5
+
 1. 언어 설정
 (이미 기본 영어로 설정되어 있으면 안해도 됨)
 
