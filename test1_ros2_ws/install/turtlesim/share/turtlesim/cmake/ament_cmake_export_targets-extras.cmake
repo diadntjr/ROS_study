@@ -1,1 +1,0 @@
-/home/diadntjr/ros_study/test1_ros2_ws/build/turtlesim/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake
